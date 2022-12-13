@@ -11,7 +11,6 @@ export const StyledContact = styled.div`
   }
   .contactNumber {
     width: 40%;
-    margin-right: 30px;
     text-decoration: none;
     font-size: 18px;
     color: darkgreen;
